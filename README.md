@@ -69,19 +69,19 @@
 
 ### 2. Дообучение модели YOLOv8 (`Дообучение_YOLO.ipynb`)
 - Дообучение модели YOLOv8 на подготовленном датасете.
-- Итоговая модель сохранена как `curling_yolov8.pt`.
+- Итоговая модель сохранена как [curling_yolov8.pt](https://drive.google.com/file/d/1pw3oY5YZMYp5gtUvZ73ImHaSMbfJxOE0/view?usp=drive_link).
 
 ### 3. Формирование выходных артефактов
 Блокнот `Формирование_демонстрационного_видео_и_метрик.ipynb` создаёт:
 - **Демонстрационное видео** ([demo_video.mp4](https://drive.google.com/file/d/1Jhj4xsSC8uIH2_jc5SWPttkyufj5xmTf/view?usp=drive_link)): Видео 1-го энда с визуализацией детекций (рамки, цвет команды, координаты).
-- **CSV-файл** (`stones_coordinates.csv`): Координаты камней в формате `frame_id, stone_id, team, x_cm, y_cm`.
-- **Отчёт** (`report.md`): Метрики:
+- **CSV-файл** ([`stones_coordinates.csv`](https://drive.google.com/file/d/1UAQ186HCG7Z7zR8-8mM9531-y5qLtewS/view?usp=drive_link)): Координаты камней в формате `frame_id, stone_id, team, x_cm, y_cm`.
+- **Отчёт** ([`report.md`](https://drive.google.com/file/d/1zJpIvS5dSbhc4LAOrKbMg4XFN6QK5ogm/view?usp=drive_link)): Метрики:
   - Precision: 1.000
   - Recall: 0.932
   - MAE по координатам (см): 1308.209
 
 ## Используемые видеоматериалы
-Видеоматериалы, упомянутые в папке `Данные` (`1_end.mp4`, `Участок_с_полного_матча.mp4`), доступны по [ссылке на Google Drive](https://drive.google.com/drive/folders/1a9mGi1WSfmFQ2zBqm0lF9XihH8I6afPN?usp=drive_link).
+Видеоматериалы, упомянутые в папке `Данные` ([1_end.mp4](https://drive.google.com/file/d/1Rbm4t42_yh0jjgpjBJPOmxHmS9Z9zxC2/view?usp=drive_link), [`Участок_с_полного_матча.mp4`](https://drive.google.com/file/d/1hKV-zDKKmt67I5KiwzFyuLxwLfW1LB1y/view?usp=drive_link)), доступны по [ссылке на Google Drive](https://drive.google.com/drive/folders/1a9mGi1WSfmFQ2zBqm0lF9XihH8I6afPN?usp=drive_link).
 
 ## Возможные улучшения
 1. **Улучшение подсчёта плоской гомографии**:
