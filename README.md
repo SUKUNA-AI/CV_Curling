@@ -81,7 +81,7 @@
   - MAE по координатам (см): 1308.209
 
 ## Используемые видеоматериалы
-Видеоматериалы, упомянутые в папке `Данные` ([1_end.mp4](https://drive.google.com/file/d/1Rbm4t42_yh0jjgpjBJPOmxHmS9Z9zxC2/view?usp=drive_link), [`Участок_с_полного_матча.mp4`](https://drive.google.com/file/d/1hKV-zDKKmt67I5KiwzFyuLxwLfW1LB1y/view?usp=drive_link)), доступны по [ссылке на Google Drive](https://drive.google.com/drive/folders/1a9mGi1WSfmFQ2zBqm0lF9XihH8I6afPN?usp=drive_link).
+Видеоматериалы, упомянутые в папке `Данные` ([1_end.mp4](https://drive.google.com/file/d/1Rbm4t42_yh0jjgpjBJPOmxHmS9Z9zxC2/view?usp=drive_link), [`Участок_с_полного_матча.mp4`](https://drive.google.com/file/d/1hKV-zDKKmt67I5KiwzFyuLxwLfW1LB1y/view?usp=drive_link)), доступны по [ссылке на Google Drive](https://drive.google.com/drive/folders/1a9mGi1WSfmFQ2zBqm0lF9XihH8I6afPN?usp=sharing).
 
 ## Возможные улучшения
 1. **Улучшение подсчёта плоской гомографии**:
